@@ -1,0 +1,34 @@
+body {
+  margin: 10px;
+  padding: 0;
+}
+
+#schoolName{
+  text-align: center;
+}
+
+.card{
+  width:400px;
+  height:400px;
+  margin-bottom: 30px;
+  
+}
+
+.card-img-top{
+  width: 200px;
+  height: 200px;
+  object-fit: cover; 
+}
+
+.col{
+  text-align: center;
+}
+
+#buttonDiv {
+  width: 100%;
+  text-align: center;
+}
+
+#absentStudents{
+  text-align: center;
+}
